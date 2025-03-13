@@ -6,6 +6,3 @@ node_modules/
 
 # Fichiers spécifiques à MacOS
 .DS_Store
-
-# Fichiers de configuration
-.env
